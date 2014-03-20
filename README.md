@@ -7,6 +7,8 @@ Credits to the authors for those nice utilities.
 Setup
 -----
 Add `pod 'Toolkit', :git => 'https://github.com/tosse/ios-toolkit.git', :tag => '0.1'` to your Podfile and run `pod install`
+`#import Toolkit.h` everywhere you would like to use it. 
+
 
 License
 -------
